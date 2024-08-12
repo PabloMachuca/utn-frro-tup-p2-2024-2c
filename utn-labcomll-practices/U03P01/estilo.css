@@ -5,10 +5,10 @@
     /*margin establece el margen para los cuatro lados*/
     padding: 5px;
     /*padding establece el espacio de relleno*/
-    background-color: rgb(245, 245, 245);
-    /*cambia el color de relleno*/
     font-family: sans-serif;
 }
+
+html {background-color: rgb(245, 245, 245);}
 
 h1 {font-size: 1.5em;
 color: #242424;
